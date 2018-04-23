@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Nithya Pari's blog
 
-I'm glad you are here. I plan to talk about ...
+I am excited to setup github pages for the first time! Also, loving the bot interaction. 
