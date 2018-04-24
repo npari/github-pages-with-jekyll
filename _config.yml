@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Welcome to my guide.
 
 # social links
-twitter_username: @npari
-github_username:  @npari
+twitter_username: npari
+github_username:  npari
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
